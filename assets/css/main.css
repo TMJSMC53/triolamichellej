@@ -337,6 +337,14 @@ footer > p {
   font-size: 1.25em;
 }
 
+.btn-yellow {
+  background-color: yellow;
+}
+.flex {
+  display: flex;
+  /* gap: 0.5rem; */
+}
+
 /* Container */
 
 .container {
